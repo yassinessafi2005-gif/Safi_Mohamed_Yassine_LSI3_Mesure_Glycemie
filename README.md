@@ -64,15 +64,16 @@ app/src/main/
 
 ---
 
-## Captures d'écran
-1.pour la methode de la message dans un remarque:
+## Captures d'écran:
+
+### Toast.makeText
+
 ![](img1.png)
-2.pour la methode Onclick:
-![](img2.png)
 
 ### Méthode onClick
 
-### Toast.makeText
+![](img2.png)
+
 
 ---
 
